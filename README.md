@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/jichangbaike/maomaoyun/refs/heads/main/images/maomaoyun.png" alt="猫猫云 maomaoyun">
 
-**猫猫云（MaoMaoYun）**是一家提供跨境网络加速服务的机场服务商，自 **2022 年** 开始运营至今。服务以高性价比和实惠价格著称，主要面向需要稳定访问海外网站、国际流媒体以及 AI 工具的用户。  
+猫猫云（MaoMaoYun）是一家提供跨境网络加速服务的机场服务商，自 **2022 年** 开始运营至今。服务以高性价比和实惠价格著称，主要面向需要稳定访问海外网站、国际流媒体以及 AI 工具的用户。  
 
 猫猫云采用 **Trojan 协议**，使用**IPLE 专线**接入，链路稳定且加密可靠。  与此同时，猫猫云提供定制的 Windows、macOS、iOS、Android 客户端，支持一键导入与便捷管理，适合多终端用户。
 
@@ -13,9 +13,9 @@
 
 ---
 
-## 官网地址入口
+## 猫猫云（MaoMaoYun）官网地址入口
 
-- 👉 **猫猫云（MaoMaoYun）官网注册入口**：  
+- 👉 **猫猫云（MaoMaoYun）官网地址入口**：  
   [https://finalto.xyz/VAyRcb](https://finalto.xyz/VAyRcb)
 
 建议使用桌面浏览器访问该链接，完成账号注册、套餐选购及后续配置。移动端用户亦可通过该入口操作。
