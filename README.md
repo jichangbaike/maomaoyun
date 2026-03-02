@@ -9,7 +9,7 @@
 本仓库用于整理猫猫云的官网注册入口、套餐信息、多平台使用指引及常见问题，仅汇集公开信息，请以官网公布内容为准。
 
 > 声明：本文档不构成任何投资、使用或购买建议，仅作为参考资料。请在合法合规的前提下使用相关服务。  
-> 最后更新：2026年1月29日（套餐、线路或政策如有调整，以官网为准）
+> 最后更新：2026年3月02日（套餐、线路或政策如有调整，以官网为准）
 
 ---
 
@@ -91,9 +91,9 @@
 
 ## 下载测速和流媒体测试
 
-<img src="https://raw.githubusercontent.com/jichangbaike/maomaoyun/refs/heads/main/images/maomaoyun-test-20260129.png" alt="猫猫云 maomaoyun 下载测试和流媒体测试图">
+<img src="https://raw.githubusercontent.com/jichangbaike/maomaoyun/refs/heads/main/images/maomaoyun-test-20260302.png" alt="猫猫云 maomaoyun 下载测试和流媒体测试图">
 
-> 测试时间：2026-01-29
+> 测试时间：2026-03-02
 
 ## 平台支持与客户端下载指引
 
