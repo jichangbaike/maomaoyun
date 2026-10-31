@@ -10,7 +10,7 @@
 > 
 > 声明：本文档不构成任何购买建议，仅作为参考资料。请在合法合规的前提下使用相关服务。 
 >  
-> 最后更新：2026年8月15日（套餐、线路或政策如有调整，以官网为准）
+> 最后更新：2026年10月31日（套餐、线路或政策如有调整，以官网为准）
 
 ---
 
@@ -108,10 +108,10 @@
 
 猫猫云提供**官方客户端**，操作更简便，支持以下平台：
 
-- **Windows**：官方客户端 、 ~~Clash Verge Rev~~  
-- **macOS**：官方客户端、~~Clash Verge Rev、Shadowrocket、Quantumult X~~ 等  
-- **iOS**：官方客户端、~~Shadowrocket、Quantumult X、Loon、Stash~~ 等  
-- **Android**：官方客户端、~~v2rayNG、Clash for Android~~ 等  
+- **Windows**：[下载 Windows 官方客户端](https://app.mmy369.com/win/maomao5.6.1.exe)，安装时请关闭杀毒软件安装，并使用管理员模式打开。
+- **macOS**：[macOS 官方客户端](https://app.mmy369.com/mac/maomao1.0.7.dmg)，支持 Intel 和Apple 芯片
+- **iOS**：[iOS 官方客户端](https://apps.apple.com/hk/app/maomaoyun/id6748978938)，在 App Store 搜索 “MaoMaoYun” ，并进行下载。
+- **Android**：[Android 官方客户端](https://app.mmy369.com/Android/maomao2.3.9.apk)
 
 > 官方客户端可在用户中心下载，登陆账户后即可自动更新节点。
 >
@@ -175,5 +175,5 @@
 如发现相关情况，维护者将保留证据并按平台规则处理。
 
 - **Maintained by:** `jichangbaike`  
-- **Last Updated:** `2026-08-15`  
-- **Version:** `v1.2`
+- **Last Updated:** `2026-10-31`  
+- **Version:** `v1.3`
